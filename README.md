@@ -7,7 +7,7 @@ Leetcode account
 
 Education: 
 
-Field of research: 
+Fields of research: 
 
 
 
