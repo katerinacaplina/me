@@ -2,7 +2,7 @@
 
 Leetcode account
 
-Fields of research: 
+Fields of research: graph neural networks
 
 
 
