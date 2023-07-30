@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Leetcode account
+Leetcode account - 
 
-Robotics is a subject of interest.
 
 
 
