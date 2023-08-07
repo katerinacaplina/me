@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Leetcode account: 
+Leetcode account: [katerinacaplina](https://leetcode.com/katerinacaplina/)
 
 Research interests:
 
