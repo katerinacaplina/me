@@ -2,7 +2,7 @@
 
 Leetcode account: [katerinacaplina](https://leetcode.com/katerinacaplina/)
 
-Research interests: CV, Graph learning, Robotics
+Research interests: CV, Robotics
 
 
 
