@@ -2,7 +2,7 @@
 
 Leetcode account: [katerinacaplina](https://leetcode.com/katerinacaplina/)
 
-Research interests: CV, Robotics
+Research interests: ML, MLOps/MLsecOps, Robotics
 
 
 
